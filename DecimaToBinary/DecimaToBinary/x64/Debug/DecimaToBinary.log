@@ -1,0 +1,3 @@
+﻿  DecimaToBinary.cpp
+D:\New folder\DecimaToBinary\DecimaToBinary\DecimaToBinary.cpp(13,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DecimaToBinary.vcxproj -> D:\New folder\DecimaToBinary\x64\Debug\DecimaToBinary.exe

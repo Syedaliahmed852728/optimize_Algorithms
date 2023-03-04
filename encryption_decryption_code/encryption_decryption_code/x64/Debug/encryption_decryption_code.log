@@ -1,0 +1,9 @@
+﻿  encryption_decryption_code.cpp
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(10,5): error C2062: type 'char' unexpected
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(23,12): error C2065: 'option': undeclared identifier
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(25,17): error C2065: 'option': undeclared identifier
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(25,25): error C2050: switch expression not integral
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(61,9): error C2360: initialization of 'decKeys' is skipped by 'case' label
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(36,22): message : see declaration of 'decKeys'
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(63,9): error C2361: initialization of 'decKeys' is skipped by 'default' label
+D:\New folder\encryption_decryption_code\encryption_decryption_code\encryption_decryption_code.cpp(36,22): message : see declaration of 'decKeys'

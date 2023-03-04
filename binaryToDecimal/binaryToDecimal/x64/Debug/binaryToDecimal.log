@@ -1,0 +1,3 @@
+﻿  binaryToDecimal.cpp
+D:\New folder\binaryToDecimal\binaryToDecimal\binaryToDecimal.cpp(15,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  binaryToDecimal.vcxproj -> D:\New folder\binaryToDecimal\x64\Debug\binaryToDecimal.exe
